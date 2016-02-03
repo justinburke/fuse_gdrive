@@ -16,7 +16,8 @@ For the impatient
      environment variable.
   4. use go to fetch and install this code and its dependencies:
 
-    `$ go install github.com/asjoyner/fuse_gdrive`
+    `$ go get github.com/justinburke/fuse_gdrive`
+    `$ go install github.com/justinburke/fuse_gdrive`
 
   5. make a mount point on your system
 
