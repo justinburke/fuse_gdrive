@@ -22,8 +22,8 @@ import (
 	drive "google.golang.org/api/drive/v2"
 
 	"bazil.org/fuse"
-	"github.com/asjoyner/fuse_gdrive/cache"
-	"github.com/asjoyner/fuse_gdrive/drive_db"
+	"github.com/justinburke/fuse_gdrive/cache"
+	"github.com/justinburke/fuse_gdrive/drive_db"
 	"golang.org/x/net/context"
 )
 

@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/asjoyner/fuse_gdrive/lru"
+	"github.com/justinburke/fuse_gdrive/lru"
 	"github.com/dustin/go-humanize"
 )
 

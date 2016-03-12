@@ -18,8 +18,8 @@ import (
 
 	drive "google.golang.org/api/drive/v2"
 
-	"github.com/asjoyner/fuse_gdrive/cache"
-	"github.com/asjoyner/fuse_gdrive/drive_db"
+	"github.com/justinburke/fuse_gdrive/cache"
+	"github.com/justinburke/fuse_gdrive/drive_db"
 )
 
 // https://developers.google.com/drive/web/folder
